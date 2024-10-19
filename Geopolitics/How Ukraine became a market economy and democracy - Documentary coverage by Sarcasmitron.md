@@ -182,7 +182,7 @@ Despite of the assurance that Ukraine couldn't have joined NATO, Russia still in
 #### Aftermath
 Russia invaded and brutalized a neighbor with a better reputation than before the invasion.
 
-Half of the West was more sympathetic to Russia than Ukraine. 
+A high portion of the US and a plethora of EU parties were more sympathetic to Russia than Ukraine. 
 
 Keep in mind for "the genocide of Russian speakers". The following grew up speaking primarily Russian: 
 Tymoshenko, Poroshenko, Yarosh, Zelenskyy, Turchynov, Biletski, Semenchenko, Kolomoyski
