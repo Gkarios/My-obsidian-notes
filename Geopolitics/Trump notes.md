@@ -1,5 +1,4 @@
-- "No wars under Trump"
-Iran attacked Saudi Arabia, oil refineries. Turkyie bombs Kurdish people. Assad gassed its people while Trump bombed their airport. The Great march of return, terrorist attacks and riots in Gaza strip. North Korea continued ICBM testing with no US pressure. Iran hurling towards nuclear weapons. Trump authorized drone strikes in Yemen. The Trump administration assassinated Iran officer Qasem Soleimani. He promised to end the longest US war in Afghanistan, and he kicked it down the road for Biden. 
+Iran attacked Saudi Arabia, oil refineries. Turkyie bombs Kurdish people. Assad gassed its people while Trump bombed their airport. Palestine great march of return & terrorist attacks in Gaza strip. North Korea continued ICBM testing. Iran hurling towards nuclear weapons. 
 
 These were building to the events 2020-2024.
 

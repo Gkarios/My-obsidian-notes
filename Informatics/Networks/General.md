@@ -1,3 +1,4 @@
+## DNS
 (Roadmap.sh)
 When looking for a website, we type the Domain name: https://wikipedia.com, the browser checks its cache to see 
 if:
@@ -14,4 +15,11 @@ Root searches the TLD, this query search takes some time...
 
 Using the TLD domain, you have the registrar, which points to that specific domain (glued addresses).
 
-Resolver passes the ip address to the OS. It's saved in cache. 
+Resolver passes the ip address to the OS. It's saved in cache.
+
+
+## Router
+DHCP - Allocates private ipv4 addresses to every local device. 
+
+## Modem
+NAT - Translates internet private <-> public addresses
