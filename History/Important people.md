@@ -561,7 +561,7 @@ Wrote some of the most acclaimed literature, novels, poems with a philosophical 
 - New York, US
 - Politician
 
-The first US secretary of treasury. Born as an orphan in the Caribbean, he was sent to New York at 15, and at 21 years old advocated for the American Revolutionary war, the next year he fought as an artillery officer.
+The first US secretary of treasury. Born as an orphan in the Caribbean, he was sent to New York at 15, and at 21 years old advocated for the American Revolutionary war, the next year he fought as an artillery officer. He was the predominant writer of "The Federalist Papers", which helped articulate the complex vision of the Federalists for the US and ratify the US Constitution.
 
 He was a close cooperator of George Washington and funded the first National bank using budget from the whiskey tax (which was opposed and rebelled against). 
 
