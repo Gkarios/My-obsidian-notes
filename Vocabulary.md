@@ -227,6 +227,7 @@ approbation - reprobation = approval - disapproval
 sanguine = optimistic
 constituent = proponent 
 teem = be full of
+turbulent = tempestuous, stormy, tumultuous, unstable
 
 
 I'm not following

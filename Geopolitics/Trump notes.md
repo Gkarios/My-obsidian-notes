@@ -55,18 +55,18 @@ Trump, did nothing and had no plan regarding this war for the first 3 years of h
 
 In February 2020, Trump did not negotiate a deal with the Afghan government, he instead decided to make the deal directly with the Taliban. The deal was for the US to surrender and fully withdraw from Afghanistan on May 1st 2021, after the upcoming election. 
 
-November 2020, Joe Biden is declared the upcoming President. And Donald Trump shamelessly **deliberately sabotages** the deal he made in February. 
+November 2020, as Joe Biden was the president-elect, Trump shamelessly **deliberately sabotages** the deal Afghanistan he made in February. 
 
-During this 2-month period, before Biden's presidency begins, Trump purges the Pentagon and hires a new class of loyalists. He commands them to remove as many US troops from Afghanistan as precipitously as possible. Joe Biden's presidency begins and he is forced to a new dilemma:
+During this 2-month period, before Biden's inauguration, Trump purges the Pentagon and hires a new class of loyalists. He commands them to remove as many US troops from Afghanistan as precipitously as possible. Joe Biden's presidency begins and he is forced to a new dilemma:
 To either withdraw Trump's unsustainable small deployment before Afghanistan is secure against the Taliban, which will lead to an immediate collapse. Or to redeploy troops that Trump pulled to facilitate a sustainable government first, which will require funding during a Covid-crashed-market-shutdown, and will countermand Trump's deal with the Taliban, escalating the tensions between the US and the Taliban.
 
 
 #### Ukraine / Israel
-Both of these wars were happening under Donald Trump's whole presidency. Crimea was annexed by Russia with live conflict. Donetsk and Luhansk were in active conflict between Ukraine and Russia.
+Both of these wars were happening under Donald Trump's whole presidency. Crimea was annexed by Russia with live conflict. Donetsk and Luhansk were in active conflict between Ukraine and Russia. During his presidency, for the first time, Russian troops were engaging in combat in the Donbas in Ukraine 
 
 The Gaza blockade was escalating, with record protests. The West Bank had the same settlements as it had after his presidency. 
 
-Donald Trump, through unregulated media information was exonerated for every-single-one of these wars and conflicts, while the opposite occurred for the upcoming presidency. 
+Donald Trump, through unregulated media information was exonerated for every-single-one of these wars and conflicts, while the opposite occurred for the upcoming presidency. He cooperated with Netanyahu to cut UNRWA funds to the Gaza strip in 9/2018.
 
 #### Bonus 
 North Korea freely continued ICBM testing, with no pressure.
@@ -74,3 +74,5 @@ North Korea freely continued ICBM testing, with no pressure.
 Trump supported the Bush war of Iraq and lied about it endlessly during his campaigns and debates with Clinton.
 
 Why were there at least 140 contacts between Trump campaign officials and Russian officials? Why did Trump pardon Paul Manafort? 
+
+Trump chose to increase drone strikes in Yemen and hide the frequency from the US populous.
