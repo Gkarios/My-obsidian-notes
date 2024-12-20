@@ -228,6 +228,22 @@ sanguine = optimistic
 constituent = proponent 
 teem = be full of
 turbulent = tempestuous, stormy, tumultuous, unstable
+pass muster = be accepted/satisfactory
+contrition = remorse
+vicissitude = change
+garrison = armed forces
+scourge = affliction/menace
+exigency = demand
+magistrate = a judge who has limited authority to hear certain issues
+encroachment = trespass on 
+felicity = joy
+venality = being brided even though the people have agreed not to
+flit = dart/dash/move swiftly
+attenuation = deprecation
+posit = assume as fact
+deferred = postponed
+delve = search/dig
+amenable = compliant
 
 
 I'm not following
